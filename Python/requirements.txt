@@ -1,0 +1,10 @@
+flask
+flask-cors
+numpy
+scikit-learn
+scipy
+wfdb
+tensorflow
+shap
+joblib
+requests

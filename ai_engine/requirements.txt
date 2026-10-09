@@ -1,0 +1,8 @@
+Flask
+flask-cors
+numpy
+scipy
+joblib
+tensorflow
+scikit-learn
+shap
